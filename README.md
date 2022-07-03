@@ -27,7 +27,7 @@
 <a href="#"><img align="left" alt="Html" width="35px" src="https://camo.githubusercontent.com/43398ed8f2caf3a341e80dd2f92ebe4ef8a54ba16e219b992c5936518a00b876/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f532f73656c656e69756d2d6c6f676f2d413142353343454642302d7365656b6c6f676f2e636f6d2e706e67" data-canonical-src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" style="max-width: 100%;"></a></p>
 <br><br>
 
-<img height="180em" style="width:100%" align="center" src="https://github-readme-stats.vercel.app/api?username=ugurisik&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
-  <img height="180em" style="width:100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ugurisik&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
+<img height="180em" style="width:100%" align="center" src="https://github-readme-stats.vercel.app/api?username=ugurisik&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="ugurisik"/>
+  <img height="180em" style="width:100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ugurisik&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="ugurisik"/>
   
   
