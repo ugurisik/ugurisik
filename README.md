@@ -6,7 +6,7 @@
 <li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> Currently working as a Mid Java Developer and Project Manager, leading and managing software projects.</li>
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> Specializing in desktop and web applications development and their maintenance using Java. <g-emoji class="g-emoji" alias="joy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f602.png"></g-emoji></li>
 <li><g-emoji class="g-emoji" alias="goal_net" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f945.png">🥅</g-emoji> Passionate about refining existing systems and creating efficient, scalable applications.</li>
-<li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> My next goal: To master all I can in software development and reach an expert level in the field. <g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥️</g-emoji></li>
+<li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> My next goal: To master all I can in software development and reach an expert level in the field.</li>
 <li><g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥️</g-emoji> Lifelong learner with a strong desire to stay on the cutting edge of technology and innovation.</li>
 
 </ul>
