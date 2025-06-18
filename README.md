@@ -49,18 +49,11 @@
 #### Mobile & Cross-Platform
 <p align="left">
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xamarin/xamarin-original.svg" alt="xamarin" width="40" height="40"/>
 </p>
 
 - **React Native** (Expo)
-- **Android Studio**
-- **Xamarin** (C#)
 
 #### System Management & Hosting
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-</p>
 
 - **Hosting Panels:** cPanel, DirectAdmin, Plesk
 - **Billing Systems:** WHMCS, WiseCP
@@ -68,17 +61,9 @@
 - **Server Management** (Beginner level)
 
 #### Development Tools & Software
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/seleniumhq/seleniumhq-icon.svg" alt="selenium" width="40" height="40"/>
-</p>
 
-- **Design:** Adobe Photoshop, Adobe After Effects
-- **Office:** Microsoft Office
 - **Automation:** Selenium WebDriver
-- **Hardware:** Arduino
+- **Hardware:** Arduino etc
 
 #### E-commerce & API Integration
 - **E-commerce APIs:** Trendyol, Hepsiburada integrations
