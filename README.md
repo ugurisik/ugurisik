@@ -1,23 +1,100 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width: 100%;" data-target="animated-image.originalImage" hidden="">
 
-<h2 dir="auto"><a id="user-content-im-a-junior-php-developer" class="anchor" aria-hidden="true" href="#"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>I'm a Mid-level Java Developer & Project Manager 🚀 <a href="https://www.kariyer.net/ozgecmis/ugurisik80" target="_blank">CV</a></h2>
+## I'm a Mid-level Java Developer & Project Manager 🚀 [CV](https://www.kariyer.net/ozgecmis/ugurisik80)
 
-<ul dir="auto">
-<li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> Currently working as a Mid Java Developer and Project Manager, leading and managing software projects.</li>
-<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> Specializing in desktop and web applications development and their maintenance using Java. <g-emoji class="g-emoji" alias="joy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f602.png"></g-emoji></li>
-<li><g-emoji class="g-emoji" alias="goal_net" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f945.png">🥅</g-emoji> Passionate about refining existing systems and creating efficient, scalable applications.</li>
-<li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> My next goal: To master all I can in software development and reach an expert level in the field.</li>
-<li><g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥️</g-emoji> Lifelong learner with a strong desire to stay on the cutting edge of technology and innovation.</li>
+- 🔭 Currently working as a Mid Java Developer and Project Manager, leading and managing software projects.
+- 🌱 Specializing in desktop and web applications development and their maintenance using Java. 😂
+- 🥅 Passionate about refining existing systems and creating efficient, scalable applications.
+- ⚡ My next goal: To master all I can in software development and reach an expert level in the field.
+- 🖥️ Lifelong learner with a strong desire to stay on the cutting edge of technology and innovation.
 
-</ul>
-
-<h3 dir="auto"><a id="user-content--connect-with-me" class="anchor" aria-hidden="true" href="#-connect-with-me"><a href="https://www.linkedin.com/in/ugurisik80/" rel="nofollow"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="envelope_with_arrow" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e9.png">📩</g-emoji> Let's connect! 💼</a></h3>
+### 📩 [Let's connect! 💼](https://www.linkedin.com/in/ugurisik80/)
 
 <br>
-<h3 dir="auto"><a id="user-content--languages-and-tools" class="anchor" aria-hidden="true" href="#-languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">🔧</g-emoji> Languages and Tools:</h3>
 
+### 🔧 Languages and Tools:
 
+#### Programming Languages & Technologies
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</p>
 
+**Main Skills:**
+- **PHP** (Ana yetkinlik alanı - Web backend geliştirme)
+- **Java** (1 yıllık aktif kurumsal proje deneyimi)
+- **C#** (Masaüstü ve mobil uygulama geliştirme)
+- **JavaScript** (jQuery, AJAX)
+- **Python** (Araştırma ve kişisel projeler)
+- **Node.js** (Proje geliştirme deneyimi)
+
+#### Web Development
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
+</p>
+
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** PHP, Node.js, Java, C#
+- **Database:** MySQL, MSSQL
+- **Architecture:** MVC yapısı (orta seviye)
+
+#### Mobile & Cross-Platform
+<p align="left">
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xamarin/xamarin-original.svg" alt="xamarin" width="40" height="40"/>
+</p>
+
+- **React Native** (Expo)
+- **Android Studio**
+- **Xamarin** (C#)
+
+#### System Management & Hosting
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+</p>
+
+- **Hosting Panels:** cPanel, DirectAdmin, Plesk
+- **Billing Systems:** WHMCS, WiseCP
+- **Domain ve hosting yönetimi**
+- **Server Management** (Başlangıç seviye)
+
+#### Development Tools & Software
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/seleniumhq/seleniumhq-icon.svg" alt="selenium" width="40" height="40"/>
+</p>
+
+- **Design:** Adobe Photoshop, Adobe After Effects
+- **Office:** Microsoft Office
+- **Automation:** Selenium WebDriver
+- **Hardware:** Arduino
+
+#### E-commerce & API Integration
+- **E-commerce APIs:** Trendyol, Hepsiburada integrations
+- **Payment Systems Integration**
+- **Third-party API Development**
+
+#### Experience Areas
+- **Government Projects:** Comprehensive system development for government institutions
+- **Management Systems:** Accounting, hotel, canteen, and camp management modules
+- **Hardware Projects:** Electronics and development boards
+- **AI & Computer Vision:** SecuritEye project with AI-powered security solutions
+
+<br>
+
+### 📊 GitHub Stats:
+<p align="center">
   <img height="180em" style="width:100%" align="center" src="https://github-readme-stats.vercel.app/api?username=ugurisik&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="ugurisik"/>
   <img height="180em" style="width:100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ugurisik&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="ugurisik"/>
-  
+</p>
