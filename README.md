@@ -25,12 +25,12 @@
 </p>
 
 **Main Skills:**
-- **PHP** (Ana yetkinlik alanı - Web backend geliştirme)
-- **Java** (1 yıllık aktif kurumsal proje deneyimi)
-- **C#** (Masaüstü ve mobil uygulama geliştirme)
+- **PHP** (Main expertise area - Web backend development)
+- **Java** (1 year active corporate project experience)
+- **C#** (Desktop and mobile application development)
 - **JavaScript** (jQuery, AJAX)
-- **Python** (Araştırma ve kişisel projeler)
-- **Node.js** (Proje geliştirme deneyimi)
+- **Python** (Research and personal projects)
+- **Node.js** (Project development experience)
 
 #### Web Development
 <p align="left">
@@ -44,7 +44,7 @@
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP, Node.js, Java, C#
 - **Database:** MySQL, MSSQL
-- **Architecture:** MVC yapısı (orta seviye)
+- **Architecture:** MVC structure (intermediate level)
 
 #### Mobile & Cross-Platform
 <p align="left">
@@ -64,8 +64,8 @@
 
 - **Hosting Panels:** cPanel, DirectAdmin, Plesk
 - **Billing Systems:** WHMCS, WiseCP
-- **Domain ve hosting yönetimi**
-- **Server Management** (Başlangıç seviye)
+- **Domain and hosting management**
+- **Server Management** (Beginner level)
 
 #### Development Tools & Software
 <p align="left">
