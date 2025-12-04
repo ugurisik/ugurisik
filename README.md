@@ -80,3 +80,12 @@ React Native (Expo)
 
 ### 📩 Let's Connect
 🔗 [LinkedIn](https://www.linkedin.com/in/ugurisik80)
+
+
+![snake](https://raw.githubusercontent.com/ugurisik/ugurisik/output/github-contribution-grid-snake.svg)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ugurisik&theme=algolia)
+
+
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=230&section=header&text=Uğur%20Işık&fontSize=45&fontColor=ffffff)
