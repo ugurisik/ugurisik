@@ -75,16 +75,6 @@ React Native (Expo)
 - 🏨 Hotel, Restaurant, ERP, POS  
 - ⚡ Hardware & Electronics  
 - 🤖 AI & Computer Vision (SecuritEye)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ugurisik&show_icons=true&theme=algolia" style="width:100%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ugurisik&layout=compact&theme=algolia" style="width:100%"/>
-</p>
-
 ---
 
 ## 🔥 GitHub Streak
@@ -92,12 +82,6 @@ React Native (Expo)
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ugurisik&theme=algolia"/>
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-![snake](https://raw.githubusercontent.com/ugurisik/ugurisik/output/github-contribution-grid-snake.svg)
 
 ---
 
