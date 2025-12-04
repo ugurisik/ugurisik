@@ -8,7 +8,7 @@
 ⚡ Desktop • Web • Hardware • AI  
 📍 Türkiye  
 
-🔗 **CV:** https://www.kariyer.net/ozgecmis/ugurisik80  
+🔗 **CV:** https://www.kariyer.net/ozgecmis/ui5y5fildr  
 🔗 **LinkedIn:** https://www.linkedin.com/in/ugurisik80  
 
 ![](https://komarev.com/ghpvc/?username=ugurisik&color=green)
