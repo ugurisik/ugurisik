@@ -11,6 +11,7 @@
 ### 📩 [Let's connect! 💼](https://www.linkedin.com/in/ugurisik80/)
 
 <br>
+![](https://komarev.com/ghpvc/?username=ugurisik&color=green)
 
 ### 🔧 Languages and Tools:
 
